@@ -10,11 +10,11 @@ S=[0 for i in range(4)];
 def gen(n,i):
     
     if (n==i):
-        print(S);
+        print(S)
     else:
-        S[i]=0;
-        gen(n,i+1);
-        S[i]=1;
-        gen(n,i+1);
+        S[i]=0
+        gen(n,i+1)
+        S[i]=1
+        gen(n,i+1)
 
 gen(4,0)
