@@ -1,2 +1,2 @@
-# py-problems-solutions
-Some implementations(Dynamic Programming &amp; BackTracking) to various problems.
+# py-problems-solutions :computer:
+Some implementations to various problems with Python.
