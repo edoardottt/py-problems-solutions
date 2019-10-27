@@ -1,6 +1,8 @@
 # py-problems-solutions :computer:
 Some implementations to various problems with Python.
-Python 3.7.2
+
+[![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)
+
 I wrote these files while I was attending 'Algorithm Design' held by Prof. Monti in Sapienza University.
 The course concerned about:
 
