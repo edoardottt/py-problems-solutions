@@ -31,7 +31,6 @@ Download :satellite:
 [v1.0](https://github.com/edoardottt/py-problems-solutions/releases/tag/v1.0)
 
 
-If you liked it drop a :star:
 -------
 
-https://www.edoardoottavianelli.it for contact me.
+[edoardoottavianelli.it](https://www.edoardoottavianelli.it) to contact me.
