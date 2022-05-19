@@ -24,13 +24,6 @@ The course concerned about:
        - Sudoku
        - ...
 
-
-Download :satellite:
--------
-
-[v1.0](https://github.com/edoardottt/py-problems-solutions/releases/tag/v1.0)
-
-
 -------
 
 [edoardoottavianelli.it](https://www.edoardoottavianelli.it) to contact me.
