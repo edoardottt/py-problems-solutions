@@ -1,8 +1,9 @@
 # py-problems-solutions :computer:
-[![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)
-
 
 Python implementations for various problems.
+
+[![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)
+
 
 I wrote these files while I was attending *Algorithm Design* course held by Prof. Monti Angelo in Sapienza University.
 The course concerned about:
